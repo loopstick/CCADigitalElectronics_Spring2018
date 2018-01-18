@@ -1,8 +1,6 @@
 # Digital-Electronics-Spring-2017
 ## Digital Electronics at California College of the Arts, Spring 2017 
 
-[End of Semester schedule](#end-of-semester-schedule)
-
 ### Syllabus
 
 * Title: Mechatronics (Graduate Design)
@@ -542,7 +540,7 @@ you. If you have no idea, create the first circuit on
 - Work, Debug, and get help
 
 ### Homework: Project writeup
-- Project writeup due May 8 9am, all on Github
+- Project writeup due May 3 9am, all on Github
 	- Describe goals of project briefly
 	- Describe how, from a technical point of view, your choice of hardware
 		and software achieves that goal
@@ -556,34 +554,11 @@ you. If you have no idea, create the first circuit on
 		- Each section (function, code block, loop, whatever) must be explained
 		- All unused variables and code must be removed (debugging code
 			commented out may remain)
-- If you are participating in the Interface Show and have any parts checked
-	out from the Hybrid Lab you may give them to me after the show (with your
-	name somehow attached) and I will return them for you, if you wish.
 
-### Monday May 1 at 11:59pm: Deadline for putting information into the spreadsheet 
-
-### Monday May 1 - Saturday May 6: Interface Show Installation
-
-### Week 15: Thursday, May 2, 2017
+### Week 15: Thursday, May 3, 2018
 - No class;  End of Year Reviews for Year Zero and Year One
 
-### Saturday May 6 at 4pm: Deadline for project installation for Interface Show
-
-### Interface show, Oliver Art Center on the Oakland campus of CCA on Saturday May 6, 7-9:30PM
-
-### Sunday May 7: Interface Show de-installation
-
-### Monday May 8 at 9am: Project writeup due 
-
 ## Student Repositories
 ## Student Repositories
 
-[Veena Ramachandran](https://github.com/veenaram29/Electronics_Veena.git)  
-[Rujia Tang (Krystal)](//github.com/tangrujia/sailormoon)  
-[Roseanne Wakely](https://github.com/GreenGriffle/Rosie-Digi-Lec)  
-[Di Wang (Wendy)](https://github.com/wendydiwang/hw1)  
-[Shuyan Yuan (Iris)](https://github.com/shuyanyuan/hw1)  
-[Wei Wang (Vera)](https://github.com/VeraWaiting/hw1)  
-[Panes, Nino M.](https://github.com/senaponin/DigitalElectronics)  
-[Smith, Justin M.](https://github.com/drase15)  
-[Ruijin Zhang (Elsy)](https://github.com/el-zhang/hw1)  
+TBD
