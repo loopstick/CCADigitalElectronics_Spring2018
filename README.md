@@ -7,10 +7,10 @@
 
 * Title: Mechatronics (Graduate Design)
 * Class: Thursdays Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
-* Instructor: Michael Shiloh mshiloh@cca.edu
+* Instructor: Dr. Sudhu Tewari stewari@cca.edu
 * Office hours: 
-	* Tuesdays and Thursdays 3:00 - 3:30
-	* And at other times by appointment
+	* Thursdays 3:00 - 3:30pm, Friday 11:00-11:30am
+	* at other times by appointment
 
 #### Goals
 The goal of this class 
