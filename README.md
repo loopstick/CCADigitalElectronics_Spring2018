@@ -159,7 +159,9 @@ additional components and devices. This is impossible to predict as the range
 of projects you might approach are indeed infinite. At the low end, you can
 build amazing projects from discarded electronic devices such as printers at
 absolutely no cost; at the high end there is no limit; a complicated robotic
-project could easily start at hundreds of dollars. Some lessons I’ve learned:
+project could easily start at hundreds of dollars. 
+
+#### Some lessons I’ve learned:
 
 - Projects will cost more than you think they will
 - Projects will take longer than you think they will
@@ -184,12 +186,12 @@ The schedule is subject to change
 - Introductions
 - Interests and goals
 - Hands-on activity
-	- Basic Arduino (tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)]
+	- Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
 	- Making sounds with Tone 
 	- Resources: See the Arduino resources [here](https://github.com/loopstick/ResourcesForClasses)
 - Homework
 - Review the Basic Arduino
-	(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+	(tutorial)[https://github.com/loopstick/ArduinoTutorial/blob/master/README.md]
 	we did in class. 
 	- Read the entire document
 	- Do the section titled _analogWrite(): Controlling speed or brightness_
