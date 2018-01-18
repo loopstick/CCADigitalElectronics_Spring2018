@@ -18,7 +18,7 @@ so please ask questions and bring up topics you are curious about.
 
 #### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
-https://github.com/michaelshiloh/Mechatronics-Spring-2017
+https://github.com/loopstick/CCADigitalElectronics_Spring2018
 
 The class repository will be used to assign homework and reading
 assignments, and will contain useful code, libraries, and links to other
@@ -184,11 +184,9 @@ The schedule is subject to change
 - Introductions
 - Interests and goals
 - Hands-on activity
-	- Basic Arduino
-		(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
-	- Making sounds with Tone
-- Resources: See the Arduino resources
-	[here](https://github.com/michaelshiloh/resourcesForClasses)
+	- Basic Arduino (tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)]
+	- Making sounds with Tone 
+	- Resources: See the Arduino resources [here](https://github.com/loopstick/ResourcesForClasses)
 - Homework
 - Review the Basic Arduino
 	(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
