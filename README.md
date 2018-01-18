@@ -150,7 +150,7 @@ San Francisco, CA 94107
 Local stores that should carry all these are:
 * [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport
 * [Al Lasher's Electronics](http://allashers.com/) in Berkeley
-* I mentioned [Fry's Electronics](http://www.frys.com) (various locations in South Bay) in class 
+* [Fry's Electronics](http://www.frys.com) (various locations in South Bay) has some electronic supplies 
 but I'm not sure that they carry the official Arduino.
 
 #### Optional equipment
