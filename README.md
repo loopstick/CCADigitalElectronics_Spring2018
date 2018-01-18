@@ -148,9 +148,9 @@ California College of the Arts
 San Francisco, CA 94107  
 
 Local stores that should carry all these are:
-* [Jameco](www.jameco.com) in Belmont, just south of the SFO airport
+* [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport
 * [Al Lasher's Electronics](http://allashers.com/) in Berkeley
-* I mentioned [Fry's Electronics](www.frys.com) (various locations in South Bay) in class 
+* I mentioned [Fry's Electronics](http://www.frys.com) (various locations in South Bay) in class 
 but I'm not sure that they carry the official Arduino.
 
 #### Optional equipment
@@ -187,17 +187,14 @@ The schedule is subject to change
 - Interests and goals
 - Hands-on activity
 	- Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
-	- Making sounds with Tone 
-	- Resources: See the Arduino resources [here](https://github.com/loopstick/ResourcesForClasses)
+	- Making sounds with Tone (_if we get to it_)
+	- Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
+	<https://github.com/loopstick/ResourcesForClasses>
 - Homework
-- Review the Basic Arduino
-	(tutorial)[https://github.com/loopstick/ArduinoTutorial/blob/master/README.md]
-	we did in class. 
+- Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class. 
 	- Read the entire document
-	- Do the section titled _analogWrite(): Controlling speed or brightness_
-		which we did not do in class. 
-		You may check out any equipment you need from the Hybrid Lab, 
-		either to take home or use in the lab.
+	- Do the sections which we did not do in class. 
+	- You may check out any equipment you need from the Hybrid Lab, either to take home or use in the lab.
 - Order the required equipment to arrive no later than Friday January 27 so
 	that you can complete the homework for week 3.
 - Create your Github repository using 
@@ -209,8 +206,7 @@ and email me the URL to your repository
 - Github (moved to Github Resources in
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)).
 - More about using the Arduino tone() function
-	- I don't know why 
-		[this](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino)
+	-  [theremin example](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino)
 		didn't work last week
 	- Note that Arduino always needs the code (the .ino file) to be in a
 		subfolder of the same name 
