@@ -181,7 +181,7 @@ third will grow (or shrink) to accommodate.
 ### Schedule
 The schedule is subject to change
 
-### Week 1: Thursday, January 19, 2017
+### Week 1: Thursday, January 19, 2018
 - Introductions
 - Interests and goals
 - Hands-on activity
@@ -199,7 +199,7 @@ The schedule is subject to change
   - Create your Github repository using [this guide](https://github.com/zamfi/github-guide)
   and email me the URL to your repository (stewari@cca.edu)
 
-### Week 2: Thursday, January 26, 2017
+### Week 2: Thursday, January 26, 2018
 - Review schedule
   - Making sounds with Tone
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
@@ -248,7 +248,7 @@ The schedule is subject to change
 		Describe (briefly) what you've learned in your Github READ.md file.
 
 
-### Week 3: Thursday, February 2, 2017
+### Week 3: Thursday, February 2, 2018
 - Homework review
 - Sensors
 - Hands-on activity: Making sound without Arduino
@@ -266,7 +266,7 @@ The schedule is subject to change
 		in our
 	[list of resources](https://github.com/michaelshiloh/resourcesForClasses)
 
-### Week 4: Thursday, February 9, 2017
+### Week 4: Thursday, February 9, 2018
 - Review proposals
 - Hands-on activity: 
 	- Processing
@@ -318,7 +318,7 @@ The schedule is subject to change
 - Michael's homework: Create a version of arduinoMinimProcessing which reads
   from two sensors
 
-### Week 5: Thursday, February 16, 2017
+### Week 5: Thursday, February 16, 2018
 - Review
 	- [_arduinoMinimProcessing2Sensors_]
 		(examples/arduinoMinimProcessing2Sensors/arduinoMinimProcessing2Sensors.pde)
@@ -356,10 +356,10 @@ The schedule is subject to change
 			If you want to use the schematic capture program that
 			I use, get it [here](http:fritzing.org)
 
-### Week 6: Thursday, February 23, 2017
+### Week 6: Thursday, February 23, 2018
 - Work week with Special Guest Lecturer (attendance is mandatory)
 
-### Week 7: Thursday, March 2, 2017
+### Week 7: Thursday, March 2, 2018
 - Musical Instruments Project critique 12-12:45pm
 -	Midterm evaluations (2/20-3/3) 1-3pm
 	120 minutes / 9 = 12 minutes each
@@ -413,7 +413,7 @@ The schedule is subject to change
 	- Soldering:
 		[this](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 
-### Week 8: Thursday, March 9, 2017
+### Week 8: Thursday, March 9, 2018
 - Evaluation feedback
   - Some of you were late. This will affect your grade.
   - English
@@ -455,7 +455,7 @@ circuit you wish e.g. your musical instrument. Inclusion of Arduino is up to
 you. If you have no idea, create the first circuit on
 [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
 
-### Week 9: Thursday, March 16, 2017
+### Week 9: Thursday, March 16, 2018
 - Homework critique
 	- Disorganized and unclear. 
 		- Confusing names of files and folders
@@ -489,10 +489,10 @@ you. If you have no idea, create the first circuit on
 			- Unused variables and statements should be removed
 		- You will be graded on these points
 
-### Spring Break: Thursday, March 22, 2017
+### Spring Break: Thursday, March 22, 2018
 - Research, build mock-ups, test ideas and concepts
 
-### Week 10: Thursday, March 30, 2017
+### Week 10: Thursday, March 30, 2018
 - Quick project status report
 - Fritzing review
 - Othermill?
@@ -505,10 +505,10 @@ you. If you have no idea, create the first circuit on
 		(preferably the part you are most concerned about)
 		and demonstrate it in class next week
 
-### Week 11: Thursday, April 6, 2017
+### Week 11: Thursday, April 6, 2018
 - Critique working mock-up 
 
-### Week 12: Thursday, April 13, 2017
+### Week 12: Thursday, April 13, 2018
 
 #### current homework assignment
 -	Homework
@@ -521,10 +521,10 @@ you. If you have no idea, create the first circuit on
 		- Simplify your project if necessary
 		- If it is too simple you will have one week to add complexity
 
-### Week 13: Thursday, April 20, 2017
+### Week 13: Thursday, April 20, 2018
 - Demonstrate working minimal viable project (MVP)
 
-### Week 14: Thursday, April 27, 2017
+### Week 14: Thursday, April 27, 2018
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 - Review end of semester schedule 
 - Review Interface Show spreadsheet
@@ -534,7 +534,7 @@ you. If you have no idea, create the first circuit on
 - Work, Debug, and get help
 
 ### Homework: Project writeup
-- Project writeup due May 3 9am, all on Github
+- Project writeup due May 3 at 9am, all on Github
 	- Describe goals of project briefly
 	- Describe how, from a technical point of view, your choice of hardware
 		and software achieves that goal
@@ -552,7 +552,6 @@ you. If you have no idea, create the first circuit on
 ### Week 15: Thursday, May 3, 2018
 - No class;  End of Year Reviews for Year Zero and Year One
 
-## Student Repositories
 ## Student Repositories
 
 TBD
