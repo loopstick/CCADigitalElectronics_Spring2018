@@ -1,4 +1,4 @@
-# Digital Electronics at California College of the Arts, Spring 2018
+## Digital Electronics at California College of the Arts, Spring 2018
 
 ### Syllabus
 
@@ -185,11 +185,11 @@ The schedule is subject to change
 - Introductions
 - Interests and goals
 - Hands-on activity
-	- Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
-	- Making sounds with Tone (_if we get to it_)
-	- Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
+  - Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
+  - Making sounds with Tone (_if we get to it_)
+  - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
 	<https://github.com/loopstick/ResourcesForClasses>
-- Homework
+- *Homework*
   - Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class. 
     - Read the entire document
     - Do the sections which we did not do in class. 
@@ -201,39 +201,39 @@ The schedule is subject to change
 
 ### Week 2: Thursday, January 26, 2017
 - Review schedule
-- Github (moved to Github Resources in
-		[resources](https://github.com/michaelshiloh/resourcesForClasses)).
-- More about using the Arduino tone() function
-	-  [theremin example](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino)
-		didn't work last week
-	- Note that Arduino always needs the code (the .ino file) to be in a
+  - Making sounds with Tone
+  - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
+	<https://github.com/loopstick/ResourcesForClasses>
+  - More about using the Arduino tone() function
+    - [theremin example](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino)
+    - Note that Arduino always needs the code (the .ino file) to be in a
 		subfolder of the same name 
-	- Note that the tone() function can be used either with or without a duration
+    - Note that the tone() function can be used either with or without a duration
 - Hands-on activity: 
-	- Multitasking
-		- Analog Input (File->Examples->Analog->AnalogInput
-		- Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
-	- Conditionals
-	- Complex interactions
-Example
+  - Multitasking
+    - Analog Input (File->Examples->Analog->AnalogInput
+    - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
+    - Conditionals
+    - Complex interactions
+      - Example
 	- AnalogInput modified to work without using delay():
 		[AnalogInputWithoutDelay]
 		(https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
-- Homework
-	- Read __all four__ of the Multitasking Resources in 
+- *Homework*
+  - Read __all four__ of the Multitasking Resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
-	- Read __both__ of the Arduino Tone Resources in 
+  - Read __both__ of the Arduino Tone Resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
-		Pay particular attention to section 
+    - Pay particular attention to section 
 		_Code 3: Generating a sound with a button_ and 
 		_Code 4: Sounds depending on different keys_ 
 		in the second resource.
-	- Build the circuit described in section
+  - Build the circuit described in section
 		_Code 4: Sounds depending on different keys_ of the second 
 		Arduino Tone Resource in
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)
 		and verify that it works properly.
-	- Find (online) a musical instrument project of any sort using Arduino. 
+  - Find (online) a musical instrument project of any sort using Arduino. 
 		Write a brief description and put a link in the README.md file in 
 		your Github repository. 
 		
@@ -243,7 +243,7 @@ Example
 		- Make any edits you wish
 		- Save the file by clicking on the green _Commit changes_ button at the
 			bottom of the page
-	- Read about 3 of the sensors on the Adafruit Sensors guide listed in
+  - Read about 3 of the sensors on the Adafruit Sensors guide listed in
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
 		Describe (briefly) what you've learned in your Github READ.md file.
 
