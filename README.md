@@ -247,6 +247,7 @@ The schedule is subject to change
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
 		Describe (briefly) what you've learned in your Github READ.md file.
 
+#### ------------------Everything after this is likely to change-----------------
 
 ### Week 3: Thursday, February 2, 2018
 - Homework review
@@ -256,14 +257,13 @@ The schedule is subject to change
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
 	- Sensors
 - Homework:
-	- Propose a creative experimental musical instrument. Describe the following
-		in your Github repository:
-		- Draw a sketch of your instrument
+	- Propose a _creative experimental musical instrument_ or _device that does something_. 
+	  - Describe the following in your Github repository:
+		- Draw a sketch of your instrument or _device that does something_
 		- Describe the overall concept
 		- Create a very rough schematic to the best of your ability
 		- Describe what your program will do, to the best of your ability
-	- I have added the Github cheat sheet to the section of Github resources 
-		in our
+	- I have added the Github cheat sheet to the section of Github resources in our
 	[list of resources](https://github.com/michaelshiloh/resourcesForClasses)
 
 ### Week 4: Thursday, February 9, 2018
@@ -415,8 +415,7 @@ The schedule is subject to change
 
 ### Week 8: Thursday, March 9, 2018
 - Evaluation feedback
-  - Some of you were late. This will affect your grade.
-  - English
+  - Dcumentation
   - Sensors, more practice
 	- Soldering circuits
 	- Examples
