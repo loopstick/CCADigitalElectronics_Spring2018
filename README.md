@@ -1,11 +1,10 @@
-# Digital-Electronics-Spring-2017
-## Digital Electronics at California College of the Arts, Spring 2017 
+# Digital Electronics at California College of the Arts, Spring 2018
 
 ### Syllabus
 
 * Title: Mechatronics (Graduate Design)
 * Class: Thursdays Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
-* Instructor: Dr. Sudhu Tewari stewari@cca.edu
+* Instructor: Dr. Sudhu Tewari <stewari@cca.edu>
 * Office hours: 
 	* Thursdays 3:00 - 3:30pm, Friday 11:00-11:30am
 	* at other times by appointment
@@ -191,15 +190,14 @@ The schedule is subject to change
 	- Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
 	<https://github.com/loopstick/ResourcesForClasses>
 - Homework
-- Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class. 
-	- Read the entire document
-	- Do the sections which we did not do in class. 
-	- You may check out any equipment you need from the Hybrid Lab, either to take home or use in the lab.
-- Order the required equipment to arrive no later than Friday January 27 so
+  - Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class. 
+    - Read the entire document
+    - Do the sections which we did not do in class. 
+    - You may check out any equipment you need from the Hybrid Lab, either to take home or use in the lab.
+  - Order the required equipment to arrive no later than Friday January 27 so
 	that you can complete the homework for week 3.
-- Create your Github repository using 
-[this guide](https://github.com/zamfi/github-guide)
-and email me the URL to your repository
+  - Create your Github repository using [this guide](https://github.com/zamfi/github-guide)
+  and email me the URL to your repository (stewari@cca.edu)
 
 ### Week 2: Thursday, January 26, 2017
 - Review schedule
