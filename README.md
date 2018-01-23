@@ -217,8 +217,7 @@ The schedule is subject to change
     - Complex interactions
       - Example
 	- AnalogInput modified to work without using delay():
-		[AnalogInputWithoutDelay]
-		(https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
+		[AnalogInputWithoutDelay](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
 - *Homework*
   - Read __all four__ of the Multitasking Resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
