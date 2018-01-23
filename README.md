@@ -393,7 +393,7 @@ The schedule is subject to change
 		<https://www.tutorialspoint.com/arduino/arduino_arrays.htm>
 		<https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/>
 		<https://startingelectronics.org/software/arduino/learn-to-program-course/17-arrays/>
-		http://www.thebox.myzen.co.uk/Tutorial/Arrays.html
+		<http://www.thebox.myzen.co.uk/Tutorial/Arrays.html>
 		https://www.arduino.cc/en/Tutorial/Arrays
 	- Test equipment:
 		[this]
