@@ -380,18 +380,16 @@ The schedule is subject to change
 			- What would you like to change in the way the material is delivered?
 			- What would you add to this class?
 			- What would you remove from this class?
-- Homework due next week. Please read and try to understand as much as
-	possible. Be prepared to answer questions in class. It is OK if you don't
-	understand everything, but it is not OK if you did not read:
-	- Edge detection:
-		<https://www.arduino.cc/en/Tutorial/StateChangeDetection>
-		<http://www.ladyada.net/learn/arduino/lesson5.html>
-		<https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/>
-	- Debouncing: 
-		<https://www.arduino.cc/en/tutorial/debounce>
-	- Arrays:
-		<https://www.tutorialspoint.com/arduino/arduino_arrays.htm>
-		<https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/>
+- Homework due next week. Please read and try to understand as much as possible. Be prepared to answer questions in class. It 	is OK if you don't understand everything, but it is not OK if you did not read:
+  - Edge detection:
+    - https://www.arduino.cc/en/Tutorial/StateChangeDetection
+    - http://www.ladyada.net/learn/arduino/lesson5.html
+    - https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/
+  - Debouncing: 
+    - https://www.arduino.cc/en/tutorial/debounce
+  - Arrays:
+    - https://www.tutorialspoint.com/arduino/arduino_arrays.htm>
+	https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/>
 		<https://startingelectronics.org/software/arduino/learn-to-program-course/17-arrays/>
 		<http://www.thebox.myzen.co.uk/Tutorial/Arrays.html>
 		https://www.arduino.cc/en/Tutorial/Arrays
