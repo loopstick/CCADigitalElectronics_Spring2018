@@ -181,7 +181,7 @@ third will grow (or shrink) to accommodate.
 ### Schedule
 The schedule is subject to change
 
-### Week 1: Thursday, January 19, 2018
+### Week 1: Thursday, January 18, 2018
 - Introductions
 - Interests and goals
 - Hands-on activity
@@ -193,29 +193,29 @@ The schedule is subject to change
   - Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class. 
     - Read the entire document
     - Do the sections which we did not do in class. 
-    - You may check out any equipment you need from the Hybrid Lab, either to take home or use in the lab.
+    - Check out any equipment you need from the Hybrid Lab, either to take home or use in the lab.
   - Order the required equipment to arrive no later than Friday January 27 so
 	that you can complete the homework for week 3.
   - Create your Github repository using [this guide](https://github.com/zamfi/github-guide)
   and email me the URL to your repository (stewari@cca.edu)
 
-### Week 2: Thursday, January 26, 2018
+### Week 2: Thursday, January 25, 2018
 - Review schedule
   - Making sounds with Tone
-  - Basic Electronics
-    - [Electronic components](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
-    - Ohm's Law, Voltage, Current, and Power
- 	- https://itp.nyu.edu/physcomp/videos/videos-electricity/
-	- 
-	- 
-  - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
-	<https://github.com/loopstick/ResourcesForClasses>
-  - More about using the Arduino tone() function
+  	- Note that the tone() function can be used either with or without a duration
     - [theremin example](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino)
     - Note that Arduino always needs the code (the .ino file) to be in a
 		subfolder of the same name 
-    - Note that the tone() function can be used either with or without a duration
-- Hands-on activity: 
+  - Basic Electronics
+    - [Electronic components](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
+    - Ohm's Law, Voltage, Current, and Power
+ 	  - https://itp.nyu.edu/physcomp/videos/videos-electricity/
+  - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
+	<https://github.com/loopstick/ResourcesForClasses>
+- Hands-on activity:
+  - soldering practice - solder wires to speaker inputs
+  - Experiment with tone generation
+  
   - Multitasking
     - Analog Input (File->Examples->Analog->AnalogInput)
     - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
@@ -226,43 +226,38 @@ The schedule is subject to change
 		[AnalogInputWithoutDelay](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
 - *Homework*
   - Read __all four__ of the Multitasking Resources in 
-		[resources](https://github.com/michaelshiloh/resourcesForClasses).
+		[resources](https://github.com/loopstick/ResourcesForClasses).
   - Read __both__ of the Arduino Tone Resources in 
-		[resources](https://github.com/michaelshiloh/resourcesForClasses).
-    - Pay particular attention to section 
-		_Code 3: Generating a sound with a button_ and 
-		_Code 4: Sounds depending on different keys_ 
-		in the second resource.
-  - Build the circuit described in section
-		_Code 4: Sounds depending on different keys_ of the second 
-		Arduino Tone Resource in
-		[resources](https://github.com/michaelshiloh/resourcesForClasses)
-		and verify that it works properly.
-  - Find (online) a musical instrument project of any sort using Arduino. 
+		[resources](https://github.com/loopstick/ResourcesForClasses).
+  - Find (online) an project of any sort using Arduino that you find interesting. 
 		Write a brief description and put a link in the README.md file in 
-		your Github repository. 
-		
-		In order to edit the README.md file:
+		your Github repository. 	
+	In order to edit the README.md file:
 		- Click on the README.md file in the top of your repository folder
 		- Click on the little pencil icon to edit the file
 		- Make any edits you wish
 		- Save the file by clicking on the green _Commit changes_ button at the
 			bottom of the page
-  - Read about 3 of the sensors on the Adafruit Sensors guide listed in
-		[resources](https://github.com/michaelshiloh/resourcesForClasses).
+  - Read about **3** of the sensors on the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) listed in
+		[resources](https://github.com/loopstick/ResourcesForClasses).
 		Describe (briefly) what you've learned in your Github READ.md file.
 
-#### ------------------Everything after this is likely to change-----------------
 
-### Week 3: Thursday, February 2, 2018
+### Week 3: Thursday, February 1, 2018
 - Homework review
 - Sensors
 - Hands-on activity: Making sound without Arduino
 	- Basic 40106 (hex Schmitt trigger inverter)
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
+	- Basic 555 Oscillator
+	  - [Jameco 555 Tutorial](https://www.jameco.com/Jameco/workshop/TechTip/555-timer-tutorial.html)
+	  - [555 tutorial: Astable & Bistable )](https://www.electronics-tutorials.ws/waveforms/555_timer.html)
 	- Sensors
 - Homework:
-	- Propose a _creative experimental musical instrument_ or _device that does something_. 
+	- Propose a _device that does something_. 
+				The assignment was previously to design a _creative experimental musical instrument_. 
+				I've decided to give you more freedom this sermester. 
+				We will discuss project ideas in class and you can always email me if you need help deciding what to do.
 	  - Describe the following in your Github repository:
 		- Draw a sketch of your instrument or _device that does something_
 		- Describe the overall concept
