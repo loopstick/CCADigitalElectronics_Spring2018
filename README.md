@@ -203,7 +203,7 @@ The schedule is subject to change
 - Review schedule
   - Making sounds with Tone
   - Basic Electronics
-    - Electronic components:
+    - [Electronic components](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
     - Ohm's Law, Voltage, Current, and Power
  	- https://itp.nyu.edu/physcomp/videos/videos-electricity/
 	- 
