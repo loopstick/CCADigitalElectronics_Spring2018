@@ -202,6 +202,12 @@ The schedule is subject to change
 ### Week 2: Thursday, January 26, 2018
 - Review schedule
   - Making sounds with Tone
+  - Basic Electronics
+    - Electronic components:
+    - Ohm's Law, Voltage, Current, and Power
+ 	- https://itp.nyu.edu/physcomp/videos/videos-electricity/
+	- 
+	- 
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
 	<https://github.com/loopstick/ResourcesForClasses>
   - More about using the Arduino tone() function
@@ -211,7 +217,7 @@ The schedule is subject to change
     - Note that the tone() function can be used either with or without a duration
 - Hands-on activity: 
   - Multitasking
-    - Analog Input (File->Examples->Analog->AnalogInput
+    - Analog Input (File->Examples->Analog->AnalogInput)
     - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
     - Conditionals
     - Complex interactions
