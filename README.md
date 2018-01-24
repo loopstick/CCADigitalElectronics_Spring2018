@@ -337,8 +337,7 @@ The schedule is subject to change
 			- Explain to me (or whoever you are asking) the problem
 	- Soldering
 - Lecture
-	- [Construction
-		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
+	- [Construction Techniques](https://web.archive.org/web/20170723212431/teachmetomake.com/wordpress/construction-techniques)
 - Homework: 
 	- You have 2 weeks left for this project. You should have a very solid
 		prototype or first draft working by next week. Use class next
@@ -359,7 +358,7 @@ The schedule is subject to change
 - Work week with Special Guest Lecturer (attendance is mandatory)
 
 ### Week 7: Thursday, March 2, 2018
-- Musical Instruments Project critique 12-12:45pm
+- Midterm Project critique 12-12:45pm
 -	Midterm evaluations (2/20-3/3) 1-3pm
 	120 minutes / 9 = 12 minutes each
 - Homework due __this week__ Friday March 3 at noon. 
