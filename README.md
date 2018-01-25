@@ -43,7 +43,9 @@ engineering prefixes (micro, milli, kilo, mega, etc.)
 check one out from the Media Center. You will need a computer to
 participate, and your grade will be negatively affected if you don’t bring
 one.
-* Always bring your Arduino, breadboard, jumper wires, etc. to class.
+* Always bring your Arduino, breadboard, jumper wires, sensors, etc. to class.
+* I recommend keeping a dedicated notebook for this class. Keep 
+your project sketches, schematics, punch lists and class notes in this notebook. 
 * Participate in class! Ask questions, guess answers, propose topics,
 share interesting projects you’ve found, push the envelope, explore your
 interests, and teach us all! There are no stupid questions; admitting when
@@ -122,29 +124,26 @@ what you’re working on, so make a point of taking some time to explore
 projects you make want to work on in the future!
 
 #### Required equipment
-- Arduino.cc Uno R3 e.g. from
+- _Arduino Uno R3__ e.g. from
 	[Arduino](https://store-usa.arduino.cc/products/a000066) or 
 	[Adafruit](https://www.adafruit.com/products/50)). 
+	[Sparkfun](https://www.sparkfun.com/products/11021)
 	Must be the real thing, not be a clone or a compatible. 
 	Do not order from Amazon or Ebay.
 - Solderless breadboard, full size (also known as 830 tie point) e.g. from
 	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView)
-- Full size USB cable (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
-- Pack of jumper wires e.g. from [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
-- Laptop (Windows, Linux, or Macintosh)
-- Dedicated notebook for class notes and project journal
+- Full size _USB cable__ (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
+- Pack of _jumper wires__ e.g. from [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
+- _Output__ devices for you projects: LEDs, speakers, motors, etc.
+- _Sensors__ for your project
+- _Laptop__ (Windows, Linux, or Macintosh)
+
 
 Many vendors grant discounts for educational purposes so ask before you
 purchase. I encourage you to organize a group purchase to save on shipping
 fees, but do so immediately so we have the equipment on hand.
 
-The code ADAEDU may be good for 10% educational discount at Adafruit. 
-
-You can get items shipped to CCA. The shipping address is:
-
-California College of the Arts  
-1111 Eighth Street  
-San Francisco, CA 94107  
+The code ADAEDU may be good for 10% educational discount at Adafruit.  
 
 Local stores that should carry all these are:
 * [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport
@@ -179,10 +178,10 @@ money, and features. You can choose any two of them, and the
 third will grow (or shrink) to accommodate.
 
 ### Schedule
-The schedule is subject to change
+__The schedule is subject to change__
 
 ### Week 1: Thursday, January 18, 2018
-- Introductions
+## Introductions: Administravia and Arduino
 - Interests and goals
 - Hands-on activity
   - Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
@@ -200,52 +199,43 @@ The schedule is subject to change
   and email me the URL to your repository (stewari@cca.edu)
 
 ### Week 2: Thursday, January 25, 2018
-- Review schedule
+## OUTPUT: Tone and Basic Electronics
+  - Review schedule
   - Making sounds with Tone
   	- Note that the tone() function can be used either with or without a duration
-    - [theremin example](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino)
-    - Note that Arduino always needs the code (the .ino file) to be in a
-		subfolder of the same name 
+    - [theremin example](https://github.com/loopstick/CCADigitalElectronics_Spring2018/tree/master/examples/TONE/Theremin)
+    - Note that Arduino always needs the code (the .ino file) to be in a subfolder of the same name 
+    - more Arduino Tone Resources in [resources](https://github.com/loopstick/ResourcesForClasses).
   - Basic Electronics
     - [Electronic components](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
     - Ohm's Law, Voltage, Current, and Power
  	  - https://itp.nyu.edu/physcomp/videos/videos-electricity/
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
-	<https://github.com/loopstick/ResourcesForClasses>
-- Hands-on activity:
-  - soldering practice - solder wires to speaker inputs
-  - Experiment with tone generation
-  
-  - Multitasking
-    - Analog Input (File->Examples->Analog->AnalogInput)
-    - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
-    - Conditionals
-    - Complex interactions
+  - Hands-on activity:
+    - soldering practice - solder wires to speaker inputs
+    - Experiment with tone generation
+    - look ahead: Multitasking
+      - Analog Input (File->Examples->Analog->AnalogInput)
+      - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
+      - Conditionals
+      - Complex interactions
       - Example
-	- AnalogInput modified to work without using delay():
+	    - AnalogInput modified to work without using delay():
 		[AnalogInputWithoutDelay](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
 - *Homework*
   - Read __all four__ of the Multitasking Resources in 
 		[resources](https://github.com/loopstick/ResourcesForClasses).
-  - Read __both__ of the Arduino Tone Resources in 
-		[resources](https://github.com/loopstick/ResourcesForClasses).
   - Find (online) an project of any sort using Arduino that you find interesting. 
-		Write a brief description and put a link in the README.md file in 
-		your Github repository. 	
-	In order to edit the README.md file:
-		- Click on the README.md file in the top of your repository folder
-		- Click on the little pencil icon to edit the file
-		- Make any edits you wish
-		- Save the file by clicking on the green _Commit changes_ button at the
-			bottom of the page
+		Write a brief description and put a link in the README.md file in your Github repository. 
+	 	- remember I've posted gitHub resources at the bottom/end of [class resources](https://github.com/loopstick/ResourcesForClasses).	
   - Read about **3** of the sensors on the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) listed in
 		[resources](https://github.com/loopstick/ResourcesForClasses).
 		Describe (briefly) what you've learned in your Github READ.md file.
 
 
 ### Week 3: Thursday, February 1, 2018
+## INPUT: Sensors and multi-tasking
 - Homework review
-- Sensors
 - Hands-on activity: Making sound without Arduino
 	- Basic 40106 (hex Schmitt trigger inverter)
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
@@ -254,42 +244,27 @@ The schedule is subject to change
 	  - [555 tutorial: Astable & Bistable )](https://www.electronics-tutorials.ws/waveforms/555_timer.html)
 	- Sensors
 - Homework:
-	- Propose a _device that does something_. 
-				The assignment was previously to design a _creative experimental musical instrument_. 
-				I've decided to give you more freedom this sermester. 
-				We will discuss project ideas in class and you can always email me if you need help deciding what to do.
+	- Propose a _device that does something_ "interesting"
+				The assignment was previously to design a _creative experimental musical instrument_
+				I've decided to give you more freedom this sermester so you can apply the project to your specific interests
+				We will discuss project ideas in class and you can always email me if you need help deciding what to do
 	  - Describe the following in your Github repository:
-		- Draw a sketch of your instrument or _device that does something_
+		- Draw a sketch of your _device that does something_ ~~musical instrument~~
 		- Describe the overall concept
 		- Create a very rough schematic to the best of your ability
 		- Describe what your program will do, to the best of your ability
-	- I have added the Github cheat sheet to the section of Github resources in our
-	[list of resources](https://github.com/michaelshiloh/resourcesForClasses)
+	- Don't forget that there is a Github cheat sheet in the section of Github resources in our
+	[resources](https://github.com/loopstick/resourcesForClasses) repository
 
 ### Week 4: Thursday, February 9, 2018
 - Review proposals
+  - Resources for realizing project ideas: prototyping
+  - "punch list"
+  - "proof of concept"
 - Hands-on activity: 
-	- Processing
-		- Install [Processing](http://processing.org)
-		- If necessary, review Processing e.g. the notes for
-			[this](http://teachmetomake.com/wordpress/cca-programming-for-art-and-design-fall-2015)
-			class or some other place (Daniel Shiffman's videos are usually
-			excellent)
-		- Install the minim library. In Processing:
-			- go to Sketch -> Import Library -> Add Library
-			- type _minim_ in the filter
-			- Select _minim_
-			- Click _Install_
-		- [Here](examples/minimalMinimSine/minimalMinimSine.pde) is the minimal Minim example we looked at in class
-		- [Here](examples/minimalMinimSineMouse/minimalMinimSineMouse.pde) is
-			another simple example, showing how to vary the pitch based on the
-			position of the mouse
-		- [Here](examples/arduinoMinimProcessing/arduinoMinimProcessing.pde) is the example we worked on in class which takes numbers from
-			Arduino and uses them to set the frequency of the sine wave.
-			If you are going to use a sensor to control sounds generated by Minim it
-			is vital that you understand this example.
+			TBD
 - Homework: 
-	- Build a mock-up of a simplified version of your musical instrument
+	- Build a mock-up of a simplified version of your _device that does something_ ~~musical instrument~~
 		- You may modify your proposal to make use of anything new you've learned
 		- Appearance does not matter
 		- Use only one or two sensors
@@ -299,12 +274,6 @@ The schedule is subject to change
 			that. If you plan to detect a footstop, show that you can do that. If
 			you plan to create a complex sound like a tabla, show that you can do
 			that.
-		- If you are creating complex sounds, look at some of the minim examples
-			e.g. File -> Examples -> Contributed Libraries -> Minim -> Synthesis
-			such as _defaultInstrumentExample_ which demonstrates the built-in
-			default instrument and _compositionExample_ which has
-			lots of different instruments for you to chose. You will have to extract
-			the relevant parts to your program.
 		- As always
 			- Email me if you have questions
 			- Remember my office hours 3-3:30 on Thursday, and at other times if you
@@ -315,23 +284,17 @@ The schedule is subject to change
 				- Put a schematic in that folder. Hand drawn is fine.
 					If you want to use the schematic capture
 					program that I use, get it [here](http:fritzing.org)
-- Michael's homework: Create a version of arduinoMinimProcessing which reads
-  from two sensors
 
-### Week 5: Thursday, February 16, 2018
-- Review
-	- [_arduinoMinimProcessing2Sensors_]
-		(examples/arduinoMinimProcessing2Sensors/arduinoMinimProcessing2Sensors.pde)
-		example similar to the one we looked at last week with 
-		the added feature that it reads from two sensors
+
+### Week 5: Thursday, February 15, 2018
+- Review Midterm Projects
 - Hands-on activity: 
 	- Debugging techniques
 		- Compiling vs. uploading
 		- Syntax error vs. logic error
 		- Using _print_ and _println_
 		- Using the Digital Multimeter
-			- See debugging resources
-				[here](https://github.com/michaelshiloh/resourcesForClasses)
+			- See "debugging in our class [resources](https://github.com/loopstick/resourcesForClasses)
 		- Asking for help
 			- First try to figure it out on your own. Google is great here.
 			- Upload your code to Github
@@ -355,10 +318,10 @@ The schedule is subject to change
 			If you want to use the schematic capture program that
 			I use, get it [here](http:fritzing.org)
 
-### Week 6: Thursday, February 23, 2018
+### Week 6: Thursday, February 22, 2018
 - Work week with Special Guest Lecturer (attendance is mandatory)
 
-### Week 7: Thursday, March 2, 2018
+### Week 7: Thursday, March 1, 2018
 - Midterm Project critique 12-12:45pm
 -	Midterm evaluations (2/20-3/3) 1-3pm
 	120 minutes / 9 = 12 minutes each
@@ -402,7 +365,7 @@ The schedule is subject to change
 	- Soldering:
 		[this](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 
-### Week 8: Thursday, March 9, 2018
+### Week 8: Thursday, March 8, 2018
 - Evaluation feedback
   - Dcumentation
   - Sensors, more practice
@@ -427,15 +390,15 @@ The schedule is subject to change
 		in a new folder called "finalProject"
   2. If you need it, review the __Processing__ resources
     shown on our
-    [resources](https://github.com/michaelshiloh/resourcesForClasses)
+    [resources](https://github.com/loopstick/resourcesForClasses)
     page
   3. Read the __Classes and Objects__ resources
     shown on our
-    [resources](https://github.com/michaelshiloh/resourcesForClasses)
+    [resources](https://github.com/loopstick/resourcesForClasses)
     page
   4. Read the Fritzing resources
     shown on our
-    [resources](https://github.com/michaelshiloh/resourcesForClasses)
+    [resources](https://github.com/loopstick/resourcesForClasses)
     page
   5. Create a __schematic__ in Fritzing and then try to create a Printed
 			Circuit Board (PCB) layout of that circuit. The schematic can be of any
@@ -443,7 +406,7 @@ circuit you wish e.g. your musical instrument. Inclusion of Arduino is up to
 you. If you have no idea, create the first circuit on
 [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
 
-### Week 9: Thursday, March 16, 2018
+### Week 9: Thursday, March 15, 2018
 - Homework critique
 	- Disorganized and unclear. 
 		- Confusing names of files and folders
@@ -480,23 +443,23 @@ you. If you have no idea, create the first circuit on
 ### Spring Break: Thursday, March 22, 2018
 - Research, build mock-ups, test ideas and concepts
 
-### Week 10: Thursday, March 30, 2018
+### Week 10: Thursday, March 29, 2018
 - Quick project status report
 - Fritzing review
 - Othermill?
 - Lecture
 	- Wireless section in our class
-		[resources](https://github.com/michaelshiloh/resourcesForClasses)).
+		[resources](https://github.com/loopstick/resourcesForClasses)).
 - Work: test, repair, iterate
 - Homework: Functional part of your project
 	- Build any working part of your project 
 		(preferably the part you are most concerned about)
 		and demonstrate it in class next week
 
-### Week 11: Thursday, April 6, 2018
+### Week 11: Thursday, April 5, 2018
 - Critique working mock-up 
 
-### Week 12: Thursday, April 13, 2018
+### Week 12: Thursday, April 12, 2018
 
 #### current homework assignment
 -	Homework
@@ -509,10 +472,10 @@ you. If you have no idea, create the first circuit on
 		- Simplify your project if necessary
 		- If it is too simple you will have one week to add complexity
 
-### Week 13: Thursday, April 20, 2018
+### Week 13: Thursday, April 19, 2018
 - Demonstrate working minimal viable project (MVP)
 
-### Week 14: Thursday, April 27, 2018
+### Week 14: Thursday, April 26, 2018
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 - Review end of semester schedule 
 - Review Interface Show spreadsheet
