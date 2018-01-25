@@ -134,7 +134,7 @@ projects you make want to work on in the future!
 	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView)
 - Full size _USB cable__ (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
 - Pack of _jumper wires__ e.g. from [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
-- _Output__ devices for you projects: LEDs, speakers, motors, etc.
+- _Output__ devices for your projects: LEDs, speakers, motors, etc.
 - _Sensors__ for your project
 - _Laptop__ (Windows, Linux, or Macintosh)
 
@@ -505,4 +505,8 @@ you. If you have no idea, create the first circuit on
 
 ## Student Repositories
 
-TBD
+Yao Wang- https://github.com/YaoMaker
+Mingke Yu- https://github.com/MikoYu/DigitalElectronics_S18_Mingke
+Annika Bastacky - https://github.com/abastacky/Digital-Electronics
+
+
