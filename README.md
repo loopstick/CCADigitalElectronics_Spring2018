@@ -508,5 +508,6 @@ you. If you have no idea, create the first circuit on
 Yao Wang- https://github.com/YaoMaker
 Mingke Yu- https://github.com/MikoYu/DigitalElectronics_S18_Mingke
 Annika Bastacky - https://github.com/abastacky/Digital-Electronics
+Jinghan Luo - https://github.com/JinghanLuo/DigitalElectronics
 
 
