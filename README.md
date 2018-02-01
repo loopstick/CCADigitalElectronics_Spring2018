@@ -242,18 +242,21 @@ __The schedule is subject to change__
 	- Basic 555 Oscillator
 	  - [Jameco 555 Tutorial](https://www.jameco.com/Jameco/workshop/TechTip/555-timer-tutorial.html)
 	  - [555 tutorial: Astable & Bistable )](https://www.electronics-tutorials.ws/waveforms/555_timer.html)
+	  - Peter Vogel: [Sound of Shadows](https://vimeo.com/59829961) - analog electronics with sensors - No Arduino!
 	- Sensors
 - Homework:
-	- Propose a _device that does something_ "interesting"
-				The assignment was previously to design a _creative experimental musical instrument_
-				I've decided to give you more freedom this sermester so you can apply the project to your specific interests
-				We will discuss project ideas in class and you can always email me if you need help deciding what to do
+	- Propose a device _that does something_ "interesting". 
+	The assignment was previously to design a _creative experimental musical instrument_.
+	I've decided to give you more freedom this sermester so you can apply the project to your specific interests.
+	We will discuss project ideas in class and you can always email me if you need help deciding what to do.
+	At minimum your project should make use of **TWO input sensors** and **TWO kinds of output**.
 	  - Describe the following in your Github repository:
 		- Draw a sketch of your _device that does something_ ~~musical instrument~~
 		- Describe the overall concept
 		- Create a very rough schematic to the best of your ability
 		- Describe what your program will do, to the best of your ability
-	- Don't forget that there is a Github cheat sheet in the section of Github resources in our
+	- Don't forget that there is a Github cheat sheet in the section of 
+	[Github resources](https://github.com/loopstick/ResourcesForClasses#github-resources) in our
 	[resources](https://github.com/loopstick/resourcesForClasses) repository
 
 ### Week 4: Thursday, February 9, 2018
