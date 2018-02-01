@@ -507,17 +507,29 @@ you. If you have no idea, create the first circuit on
 CCA_DigitalElec_Spring2018 GitHub Repositories
 
 Annika - https://github.com/abastacky/Digital-Electronics
+
 Lingyin - https://github.com/lingyindu/hw
+
 Becca - https://github.com/BeccaHa/Digits2018
+
 Jiahao - 
+
 Ricardo - https://github.com/hernandezpra/digitalelectronics
+
 Yang - 
+
 Jillian - https://github.com/JinghanLuo/DigitalElectronics
-Anna - 
+
+Anna - https://github.com/annasong93/DigitalElectronics
+
 Shuo - https://github.com/ShuoCCA/Digital_hw1
+
 Yao - https://github.com/YaoMaker
+
 Mingke - https://github.com/MikoYu/DigitalElectronics_S18_Mingke
+
 Taeyoung - https://github.com/TaeyoungYun49/arduino_2018
+
 Huizhong - https://github.com/zhz1208/Digital-Electronics
 
 
