@@ -515,7 +515,7 @@ Lingyin - https://github.com/lingyindu/hw
 
 Becca - https://github.com/BeccaHa/Digits2018
 
-Jiahao - 
+Jiahao - https://github.com/PlusWhy/Digital-Electronics
 
 Ricardo - https://github.com/hernandezpra/digitalelectronics
 
