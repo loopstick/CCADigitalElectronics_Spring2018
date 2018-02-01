@@ -504,10 +504,20 @@ you. If you have no idea, create the first circuit on
 - No class;  End of Year Reviews for Year Zero and Year One
 
 ## Student Repositories
+CCA_DigitalElec_Spring2018 GitHub Repositories
 
-Yao Wang- https://github.com/YaoMaker
-Mingke Yu- https://github.com/MikoYu/DigitalElectronics_S18_Mingke
-Annika Bastacky - https://github.com/abastacky/Digital-Electronics
-Jinghan Luo - https://github.com/JinghanLuo/DigitalElectronics
+Annika - https://github.com/abastacky/Digital-Electronics
+Lingyin - https://github.com/lingyindu/hw
+Becca - https://github.com/BeccaHa/Digits2018
+Jiahao - 
+Ricardo - https://github.com/hernandezpra/digitalelectronics
+Yang - 
+Jillian - https://github.com/JinghanLuo/DigitalElectronics
+Anna - 
+Shuo - https://github.com/ShuoCCA/Digital_hw1
+Yao - https://github.com/YaoMaker
+Mingke - https://github.com/MikoYu/DigitalElectronics_S18_Mingke
+Taeyoung - https://github.com/TaeyoungYun49/arduino_2018
+Huizhong - https://github.com/zhz1208/Digital-Electronics
 
 
