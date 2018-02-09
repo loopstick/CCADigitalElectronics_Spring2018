@@ -250,12 +250,16 @@ __The schedule is subject to change__
 	I've decided to give you more freedom this sermester so you can apply the project to your specific interests.
 	We will discuss project ideas in class and you can always email me if you need help deciding what to do.
 	At minimum your project should make use of **TWO input sensors** and **TWO kinds of output**.
-	  - Describe the following in your Github repository:
+	  - Deliver the following in your Github repository:
 		- Draw a sketch of your _device that does something_ ~~musical instrument~~
 		- Describe the overall concept
 		- Create a very rough schematic to the best of your ability
 		- Describe what your program will do, to the best of your ability
-	- Don't forget that there is a Github cheat sheet in the section of 
+		- Write a "punch list" of tasks that must be accomplished to finish the project
+		  - break the full project into smaller, more manageable pieces
+		    - identify which pieces are necessary for a minimum viable product (i.e. essential)
+		    - identify which pieces are "nice to have" (i.e. non-essential)
+	  - Don't forget that there is a Github cheat sheet in the section of 
 	[Github resources](https://github.com/loopstick/ResourcesForClasses#github-resources) in our
 	[resources](https://github.com/loopstick/resourcesForClasses) repository
 
