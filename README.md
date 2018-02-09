@@ -261,9 +261,12 @@ __The schedule is subject to change__
 
 ### Week 4: Thursday, February 9, 2018
 - Review proposals
-  - Resources for realizing project ideas: prototyping
+  - Resources for realizing project ideas: 
+  [Sparkfun](https://www.sparkfun.com/), [Adafruit](https://www.adafruit.com/), surplus sellers (
+  [MPJA](https://www.mpja.com/))
   - "punch list"
-  - "proof of concept"
+  - [Proof of Concept](https://en.wikipedia.org/wiki/Proof_of_concept) 
+  and [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
 - Hands-on activity: 
 			TBD
 - Homework: 
