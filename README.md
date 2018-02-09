@@ -274,7 +274,7 @@ __The schedule is subject to change__
 - Hands-on activity: 
 			TBD
 - Homework: 
-	- Build a mock-up of a simplified version of your _device that does something_ ~~musical instrument~~
+	- Build a mock-up of a simplified version of your _device that does something_ (previously:musical instrument)
 		- You may modify your proposal to make use of anything new you've learned
 		- Appearance does not matter
 		- Use only one or two sensors
