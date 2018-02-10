@@ -526,7 +526,7 @@ Jiahao - https://github.com/PlusWhy/Digital-Electronics
 
 Ricardo - https://github.com/hernandezpra/digitalelectronics
 
-Yang - 
+Yang - https://github.com/yang2017liu
 
 Jillian - https://github.com/JinghanLuo/DigitalElectronics
 
