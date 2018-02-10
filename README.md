@@ -274,11 +274,12 @@ __The schedule is subject to change__
 - Hands-on activity: 
 			TBD
 - Homework: 
-	- Build a mock-up of a simplified version of your _device that does something_ (previously:musical instrument)
+	- Build a mock-up of a simplified version of your _device that does something_ (previously: musical instrument)
 		- You may modify your proposal to make use of anything new you've learned
 		- Appearance does not matter
-		- Use only one or two sensors
 		- Function matters supremely!
+		- Use two sensors
+		- use two types of output
 		- The main goal is to test the feasibility of your plan, so your mock-up
 			must show that. If you plan to measure a heartbeat, show that you can do
 			that. If you plan to detect a footstop, show that you can do that. If
@@ -297,7 +298,7 @@ __The schedule is subject to change__
 
 
 ### Week 5: Thursday, February 15, 2018
-- Review Midterm Projects
+- Review Projects
 - Hands-on activity: 
 	- Debugging techniques
 		- Compiling vs. uploading
@@ -381,7 +382,6 @@ __The schedule is subject to change__
   - Sensors, more practice
 	- Soldering circuits
 	- Examples
-		- Slack?
 	- "better to ask half confused question than to wait until perfect
 	  question!"
 - Lecture
@@ -412,8 +412,7 @@ __The schedule is subject to change__
     page
   5. Create a __schematic__ in Fritzing and then try to create a Printed
 			Circuit Board (PCB) layout of that circuit. The schematic can be of any
-circuit you wish e.g. your musical instrument. Inclusion of Arduino is up to
-you. If you have no idea, create the first circuit on
+circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on
 [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
 
 ### Week 9: Thursday, March 15, 2018
