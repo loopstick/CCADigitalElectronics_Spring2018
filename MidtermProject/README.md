@@ -24,7 +24,7 @@ I used a breadboard shield to set up 2 transistors to drive two motors and teste
 I decided against hot gluing the motors to the wooden platform and spent a little extra time to 
 drill holes and cut plates so I could use bolts to hold the motors in place (allowing for repositioning and swapping motors later)
 
-![Harv1_top](/images/Harv1_top.JPG)
+![Harv1_top](/images/Harv1_top.jpg)
 ![Harv1_side](/images/Harv1_side.JPG)
 
 #### Initial Functionality:
