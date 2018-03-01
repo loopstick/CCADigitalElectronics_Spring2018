@@ -13,10 +13,16 @@ I decided to base the project on a design published in Make Magazine 61:
 ![Ultradar Robot Pic](UltraDAR/images/9fb649f13b055a1754cfbe000f67afff_preview_featured.jpg)
 
 The key feature of this robot is a simple "ultradar" that is used to sense obstacles in front of the robot. 
-Adam Kemp provides the [code](UltraDAR/files/UltraDAR-SingleSweep.ino) (very helpful!) and files to 3D print the parts here: thingiverse.com/thing:2481918
+Adam Kemp provides the [code](UltraDAR/files/UltraDAR-SingleSweep.ino) (very helpful!) and files to 3D print the parts here: www.thingiverse.com/thing:2481918
 
-![Ultradar top piece](UltraDAR/images/UltraDAR-Top.jpg)
-![Ultradar bottom piece](UltraDAR/images/UltraDAR-Bottom.jpg)
+[//]: # (![Ultradar top piece](UltraDAR/images/UltraDAR-Top.jpg))
+[//]: # (![Ultradar bottom piece](UltraDAR/images/UltraDAR-Bottom.jpg))
+
+##### Initial Functionality:
+
+ - sense obstacles
+ - move forward and turn to avoid obstacles
+ 
 	
     - drawing of your initial concept
     - picture of the first iteration
