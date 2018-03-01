@@ -17,8 +17,8 @@ Adam Kemp provides the [code](UltraDAR/files/UltraDAR-SingleSweep.ino) (very hel
 [//]: # (comment test: UltraDAR/images/UltraDAR-Top.jpg)
 Harv v1
 - I printed the ultradar pieces and assembled the mechanism. 
-- I tested the servo. [Servo test code](code/ServoTest.ino)
-- I tested the ultrasonic sensor. [Ultrasonic test code](code/UltraTest.ino)
+- I tested the servo. [Servo test code](code/ServoSimple/ServoSimple.ino)
+- I tested the ultrasonic sensor. [Ultrasonic test code](code/UltrasonicSimple/UltrasonicSimple.ino)
 - I used a breadboard shield to set up 2 transistors to drive two motors and tested them (first with LEDs)
   - Initially I used zipties to hold the motors in place. Not super secure but easy to move the motors if I needed to (and I did).
 
