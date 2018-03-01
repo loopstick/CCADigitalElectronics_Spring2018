@@ -86,9 +86,9 @@ I spent a little extra time to drill holes and cut plates so I could use bolts t
  
  - a sound sensor that would
  	- make the bot move away from sound (this seems a bit tough to do well: sound localization)
- 		http://42bots.com/showcase/experimenting-with-sound-localization-and-arduino/
- 		http://forum.arduino.cc/index.php?topic=55578.0
- 		https://www.rs-online.com/designspark/diy-sound-localization-sensor-using-arduino
+ 		- http://42bots.com/showcase/experimenting-with-sound-localization-and-arduino/
+ 		- http://forum.arduino.cc/index.php?topic=55578.0
+ 		- https://www.rs-online.com/designspark/diy-sound-localization-sensor-using-arduino
  	- respond to sound by driving quickly forward
  	  -  I like the idea that sometimes this might make the bot run into obstacles after getting "scared" by a loud sound
  	  
