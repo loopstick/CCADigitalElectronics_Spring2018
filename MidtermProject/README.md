@@ -13,19 +13,28 @@ I decided to base the project on a design published in Make Magazine 61:
 ![Ultradar Robot Pic](UltraDAR/images/9fb649f13b055a1754cfbe000f67afff_preview_featured.jpg)
 
 The key feature of this robot is a simple "ultradar" that is used to sense obstacles in front of the robot. 
+
 Adam Kemp provides the [code](UltraDAR/files/UltraDAR-SingleSweep.ino) (very helpful!) and files to 3D print the parts here: www.thingiverse.com/thing:2481918
 
 [//]: # (comment test: UltraDAR/images/UltraDAR-Top.jpg)
 
 I printed the ultradar pieces and assembled the mechanism. 
+
 I tested the servo. [Servo test code](code/ServoTest.ino)
+
 I tested the ultrasonic sensor. [Ultrasonic test code](code/UltraTest.ino)
+
 I used a breadboard shield to set up 2 transistors to drive two motors and tested (first with LEDs)
-I decided against hot gluing the motors to the wooden platform and spent a little extra time to 
-drill holes and cut plates so I could use bolts to hold the motors in place (allowing for repositioning and swapping motors later)
+
+I used zipties to hold the motors in place:
 
 ![Harv1_top](images/Harv1_top.jpg)
 ![Harv1_side](images/Harv1_side.JPG)
+
+Later I had to move the motors because they were in the way of the ultrasonic sensor. I decided against hot gluing the motors to the wooden platform and spent a little extra time to 
+drill holes and cut plates so I could use bolts to hold the motors in place (allowing for repositioning and swapping motors later)
+
+
 
 #### Initial Functionality:
 
