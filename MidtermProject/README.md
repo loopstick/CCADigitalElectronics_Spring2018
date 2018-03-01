@@ -1,11 +1,11 @@
 
-## Midterm Project Documentation Example 
+# Midterm Project Documentation Example 
 
    - written description of your concept (this can be taken from your original project proposal)
    
-### Harvey - the Shy Robot
+## Harvey - the Shy Robot
 
-#### Concept: Create a shy robot. 
+### Concept: Create a shy robot. 
 
 I'm not sure yet what that means so for the first few iterations the focus of the project will be getting basic functionality working.
 I decided to base the project on a design published in Make Magazine 61:
@@ -18,25 +18,35 @@ Adam Kemp provides the [code](UltraDAR/files/UltraDAR-SingleSweep.ino) (very hel
 
 [//]: # (comment test: UltraDAR/images/UltraDAR-Top.jpg)
 
-I printed the ultradar pieces and assembled the mechanism. 
-
-I tested the servo. [Servo test code](code/ServoTest.ino)
-
-I tested the ultrasonic sensor. [Ultrasonic test code](code/UltraTest.ino)
-
-I used a breadboard shield to set up 2 transistors to drive two motors and tested (first with LEDs)
-
-I used zipties to hold the motors in place:
+- I printed the ultradar pieces and assembled the mechanism. 
+- I tested the servo. [Servo test code](code/ServoTest.ino)
+- I tested the ultrasonic sensor. [Ultrasonic test code](code/UltraTest.ino)
+- I used a breadboard shield to set up 2 transistors to drive two motors and tested them (first with LEDs)
+  - Initially I used zipties to hold the motors in place. Not super secure but easy to move the motors if I needed to (and I did).
 
 ![Harv1_top](images/Harv1_top.jpg)
 ![Harv1_side](images/Harv1_side.JPG)
 
-Later I had to move the motors because they were in the way of the ultrasonic sensor. I decided against hot gluing the motors to the wooden platform and spent a little extra time to 
-drill holes and cut plates so I could use bolts to hold the motors in place (allowing for repositioning and swapping motors later)
+I had to move the motors because they were in the way of the ultrasonic sensor. 
+I decided against zipties (wasteful) and hot glue (too permanent) to attach the motors to the wooden platform. 
+I spent a little extra time to drill holes and cut plates so I could use bolts to hold the motors in place (allowing for repositioning and swapping motors later)
+
+![Harv2_under](images/Harv2_under.jpg)
 
 
+5v from USB wasn't really enough power for the motors. AND I needed the bot to be untethered.
+- first I tried a 9V battery: nice and compact and plenty of voltage for the motors
+  - it worked great but I knew the amperage draw was too much and the battery wouldn't last long
+  - I was running the motors from the regulated 5V so I wasn't taking advantage of the full 9v
+- I ended up using 4 AA batteries
+  - technically 6v isn't really enough extra voltage to regulate down to 5v, but it works... (Arduino supposedly requires 7v minimum for its onboard regulator)
+  - the batteries are heavy and bulky, but I mounted them out of the way on the underside and positioned to counterbalance the weight of the Arduino, etc
+- I added a power switch to make it easy to turn the bot on and off
 
-#### Initial Functionality:
+![Harv2_side](images/Harv2_side.jpg)
+
+
+### Initial Functionality:
 
  - sense obstacles
    - use ultrasonic sensor to detect distance
@@ -53,7 +63,7 @@ drill holes and cut plates so I could use bolts to hold the motors in place (all
  
  But as long as the bot doesn't get too close to anything, it does pretty well! 
  
-#### Challenges
+### Challenges
 
  - one of my drive motors is stronger than the other, so I had to use analogWrite to vary the speed of one motor to match the other. 
    - I could have done a better job of matching with PWM or pulled the motors to see if there's another pair that would work better.
@@ -62,7 +72,9 @@ drill holes and cut plates so I could use bolts to hold the motors in place (all
  	When I tested with a brand new sensor (always have 2!) I found the same problem. It turned out one of the connections on the Arduino side was loose.
  
 
-#### Future Functionality:
+### Next Steps / Future Functionality:
+
+ - Create a PCB for a permanent version of the hardware, so I can play with code without worrying about wires popping loose!
 
  - H-Bridge and reverse-ability
    - or continuous rotation servos
