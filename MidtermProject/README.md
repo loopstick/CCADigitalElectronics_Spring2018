@@ -63,6 +63,9 @@ I spent a little extra time to drill holes and cut plates so I could use bolts t
  
  But as long as the bot doesn't get too close to anything, it does pretty well! 
  
+ I don't know that Fritzing is the best way to present this info (without lots of nitpicking), but here's a schematic of Harv v2
+ ![Harv2 Fritzing Schematic](Harv_Fritzing/Harv2_bb.jpg)
+ 
 ### Challenges
 
  - one of my drive motors is stronger than the other, so I had to use analogWrite to vary the speed of one motor to match the other. 
