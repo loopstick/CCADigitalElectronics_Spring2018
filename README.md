@@ -201,36 +201,36 @@ __The schedule is subject to change__
 ### Week 2: Thursday, January 25, 2018
 ## OUTPUT: Tone and Basic Electronics
   - Review schedule
-  - Making sounds with Tone
-  	- Note that the tone() function can be used either with or without a duration
-    - [theremin example](https://github.com/loopstick/CCADigitalElectronics_Spring2018/tree/master/examples/TONE/Theremin)
-    - Note that Arduino always needs the code (the .ino file) to be in a subfolder of the same name 
-    - more Arduino Tone Resources in [resources](https://github.com/loopstick/ResourcesForClasses).
-  - Basic Electronics
-    - [Electronic components](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
-    - Ohm's Law, Voltage, Current, and Power
- 	  - https://itp.nyu.edu/physcomp/videos/videos-electricity/
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
+  - Lecture
+    - Basic Electronics
+      - [Electronic components](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
+      - Ohm's Law, Voltage, Current, and Power
+ 	- https://itp.nyu.edu/physcomp/videos/videos-electricity/
+  
   - Hands-on activity:
     - soldering practice - solder wires to speaker inputs
-    - Experiment with tone generation
-    - look ahead: Multitasking
-      - Analog Input (File->Examples->Analog->AnalogInput)
-      - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
-      - Conditionals
-      - Complex interactions
-      - Example
-	    - AnalogInput modified to work without using delay():
-		[AnalogInputWithoutDelay](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
-- *Homework*
-  - Read __all four__ of the Multitasking Resources in 
+    - Making sounds with Tone
+      - [theremin example](https://github.com/loopstick/CCADigitalElectronics_Spring2018/tree/master/examples/TONE/Theremin)
+        - note: the tone() function can be used either with or without a duration
+        - note: Arduino always needs the code (the .ino file) to be in a subfolder of the same name 
+      - more Arduino Tone Resources in [resources](https://github.com/loopstick/ResourcesForClasses).
+  - look ahead: Multitasking
+    - Analog Input (File->Examples->Analog->AnalogInput)
+    - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
+    - Conditionals
+    - Complex interactions
+    - Example
+      - AnalogInput modified to work without using delay():
+      [AnalogInputWithoutDelay](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
+- *Homework:*
+  - Read __all four__ of the Multitasking Resources in [resources](https://github.com/loopstick/ResourcesForClasses).
+    - Find (online) an project of any sort using Arduino that you find interesting. 
+      - Write a brief description and put a link in the README.md file in your Github repository. 
+      - remember I've posted gitHub resources at the bottom/end of [class resources](https://github.com/loopstick/ResourcesForClasses).	
+    - Read about **3** of the sensors on the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) listed in
 		[resources](https://github.com/loopstick/ResourcesForClasses).
-  - Find (online) an project of any sort using Arduino that you find interesting. 
-		Write a brief description and put a link in the README.md file in your Github repository. 
-	 	- remember I've posted gitHub resources at the bottom/end of [class resources](https://github.com/loopstick/ResourcesForClasses).	
-  - Read about **3** of the sensors on the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) listed in
-		[resources](https://github.com/loopstick/ResourcesForClasses).
-		Describe (briefly) what you've learned in your Github READ.md file.
+      - Describe (briefly) what you've learned in your Github READ.md file.
 
 
 ### Week 3: Thursday, February 1, 2018
@@ -241,13 +241,14 @@ __The schedule is subject to change__
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
 	- Basic 555 Oscillator
 	  - [Jameco 555 Tutorial](https://www.jameco.com/Jameco/workshop/TechTip/555-timer-tutorial.html)
-	  - [555 tutorial: Astable & Bistable )](https://www.electronics-tutorials.ws/waveforms/555_timer.html)
+	  - [555 tutorial: Astable & Bistable](https://www.electronics-tutorials.ws/waveforms/555_timer.html)
 	  - Peter Vogel: [Sound of Shadows](https://vimeo.com/59829961) - analog electronics with sensors - No Arduino!
 	- Sensors
-- Homework:
+- *Homework:*
 	- Propose a device _that does something_ "interesting". 
 	The assignment was previously to design a _creative experimental musical instrument_.
 	I've decided to give you more freedom this sermester so you can apply the project to your specific interests.
+	Your assignment is to build a _device that does something_.
 	We will discuss project ideas in class and you can always email me if you need help deciding what to do.
 	At minimum your project should make use of **TWO input sensors** and **TWO kinds of output**.
 	  - Deliver the following in your Github repository:
@@ -272,13 +273,13 @@ __The schedule is subject to change__
   - [Proof of Concept](https://en.wikipedia.org/wiki/Proof_of_concept) 
   and [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
 - Hands-on activity: 
-			TBD
-- Homework: 
+  - TBD
+- *Homework*
 	- Build a mock-up of a simplified version of your _device that does something_ (previously: musical instrument)
 		- You may modify your proposal to make use of anything new you've learned
 		- Appearance does not matter
 		- Function matters supremely!
-		- Use two sensors
+		- use two sensors
 		- use two types of output
 		- The main goal is to test the feasibility of your plan, so your mock-up
 			must show that. If you plan to measure a heartbeat, show that you can do
@@ -313,7 +314,7 @@ __The schedule is subject to change__
 	- Soldering
 - Lecture
 	- [Construction Techniques](https://web.archive.org/web/20170723212431/teachmetomake.com/wordpress/construction-techniques)
-- Homework: 
+- *Homework*
 	- You have 2 weeks left for this project. You should have a very solid
 		prototype or first draft working by next week. Use class next
 		week as an opportunity to solve problems.
@@ -331,88 +332,88 @@ __The schedule is subject to change__
 
 ### Week 6: Thursday, February 22, 2018
 - Work week with Special Guest Lecturer (attendance is mandatory)
+- *Homework*
+  - Work on your Midterm project – Due next week!
+    - Remember the principle of Minimum Viable Product. First get the basics working, then, if you have time, add other features
+      - As always
+	Email me if you have questions!
+	Remember my office hours 3-4 on Thursdays, and at other times if you email me to schedule a time to meet.
 
 ### Week 7: Thursday, March 1, 2018
-- Midterm Project critique 12-12:45pm
--	Midterm evaluations (2/20-3/3) 1-3pm
-	120 minutes / 9 = 12 minutes each
-- Homework due __this week__ Friday March 3 at noon. 
-	- Write a course- and self-evaluation, 
-		email to me by Friday March 3 at noon. 
-		__No late assignments will be accepted.__
+#### Midterm Projects DUE!!
+- Midterm Project presentations and critique
+- Fritzing demonstration
+- *Homework*
+  - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 2 at noon. 
+		
 		- Personal self-evaluation
 			- What have you learned?
 			- What are your goals for the rest of the semester?
 			- What obstacles will you face in achieving these goals?
 			- How do you plan to overcome those obstacles?
-			- How would you grade your musical instrument? 
-			- What would you have done differently
-				if you had to do the musical instrument assignment over again?
-		- Course evaluation
+			- How would you grade your device? 
+			- What would you have done differently if you had to do the assignment over again?
+				
+   - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 2 at noon. 		
+   
+   			- Course evaluation
 			- What further would you like to learn in this course?
 			- What would you like to change in the course material?
 			- What would you like to change in the way the material is delivered?
 			- What would you add to this class?
 			- What would you remove from this class?
-- Homework due next week. Please read and try to understand as much as possible. Be prepared to answer questions in class. It 	is OK if you don't understand everything, but it is not OK if you did not read:
-  - Edge detection:
-    - https://www.arduino.cc/en/Tutorial/StateChangeDetection
-    - http://www.ladyada.net/learn/arduino/lesson5.html
-    - https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/
-  - Debouncing: 
-    - https://www.arduino.cc/en/tutorial/debounce
-  - Arrays:
-    - https://www.tutorialspoint.com/arduino/arduino_arrays.htm>
-	https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/>
-		<https://startingelectronics.org/software/arduino/learn-to-program-course/17-arrays/>
-		<http://www.thebox.myzen.co.uk/Tutorial/Arrays.html>
-		https://www.arduino.cc/en/Tutorial/Arrays
-	- Test equipment:
-		[this]
-		(https://learn.adafruit.com/multimeters?view=all)
-		and
-		[this]
-		(https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
-	- Soldering:
-		[this](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
-
+			
+- Homework due next week. 
+  - complete documentation of your midterm project posted in a folder on GitHub including
+    - written description of your concept (this can be taken from your original project proposal)
+    - drawing of your initial concept
+    - video of your working project
+    - code (or a written description of what the code should do, if it's not yet working)
+    - schematic showing the relevant connections from Arduino to sensors and output devices: hand-drawn or [Fritzing](http:fritzing.org)
+  - Write a concept proposal for your final project
+    - Your final project can be a fuly developed iteration of your midterm project incorporating "nice to have" functionality from the initial concept or additional functionality suggested by the first iteration.
+      - OR
+    - a new project, substantially more complex than the exercises you've done so far.
+     
+     
 ### Week 8: Thursday, March 8, 2018
 - Evaluation feedback
-  - Dcumentation
-  - Sensors, more practice
+  - Documentation and final project proposal review
+  - Sensors, more practice?
 	- Soldering circuits
 	- Examples
-	- "better to ask half confused question than to wait until perfect
-	  question!"
 - Lecture
 	- Digital Read, if necessary
+	- Debugging techniques, if necessary
+	- Counting and modulo
+	- Arrays
 	- Edge detection
 	- Debouncing
-	- Counting and modulo
-	- Debugging techniques
-	- Arrays
-- Demonstration: Fritzing, Othermill
-- Homework
-	1. Write a concept proposal for your final project
-		which must be substantially more complex than the exercises we've 
-		done in class.
-		Upload this proposal to your Github repository
-		in a new folder called "finalProject"
-  2. If you need it, review the __Processing__ resources
-    shown on our
-    [resources](https://github.com/loopstick/resourcesForClasses)
-    page
-  3. Read the __Classes and Objects__ resources
-    shown on our
-    [resources](https://github.com/loopstick/resourcesForClasses)
-    page
-  4. Read the Fritzing resources
-    shown on our
-    [resources](https://github.com/loopstick/resourcesForClasses)
-    page
-  5. Create a __schematic__ in Fritzing and then try to create a Printed
-			Circuit Board (PCB) layout of that circuit. The schematic can be of any
-circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on
+- Demonstration: Fritzing and Othermill
+- *Homework*
+  - Please read and try to understand as much as possible. Be prepared to answer questions in class. It is OK if you don't understand everything, but it is not OK if you did not read:
+    - Edge detection:
+      - https://www.arduino.cc/en/Tutorial/StateChangeDetection
+      - http://www.ladyada.net/learn/arduino/lesson5.html
+      - https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/
+    - Debouncing: 
+      - https://www.arduino.cc/en/tutorial/debounce
+    - Arrays:
+      - https://www.tutorialspoint.com/arduino/arduino_arrays.htm>
+      - https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/
+      - https://startingelectronics.org/software/arduino/learn-to-program-course/17-arrays/
+      - http://www.thebox.myzen.co.uk/Tutorial/Arrays.html
+      - https://www.arduino.cc/en/Tutorial/Arrays
+    - Test equipment:
+      - https://learn.adafruit.com/multimeters?view=all
+      - https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter
+    - Soldering:
+      - https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all
+		
+		
+  3. Read the __Classes and Objects__ resources on our [resources](https://github.com/loopstick/resourcesForClasses) page
+  4. Read the __Fritzing resources__ on our [resources](https://github.com/loopstick/resourcesForClasses) page
+  5. Create a __schematic__ in Fritzing and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on
 [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
 
 ### Week 9: Thursday, March 15, 2018
