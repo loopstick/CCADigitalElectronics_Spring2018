@@ -115,8 +115,7 @@ Substantial problems exist in your work.
 
 ##### Words of Advice
 Exploration is a key part of this class. You’ll get more out of your work if
-you
-give yourself extra time and have patience. Sometimes you’ll hit a dead
+you give yourself extra time and have patience. Sometimes you’ll hit a dead
 end and have to start over — don’t despair, it happens to everyone, but
 give yourself extra time just in case.
 This class should be both fun and intense. It’s most fun when you enjoy
@@ -126,18 +125,18 @@ projects you make want to work on in the future!
 #### Required equipment
 - _Arduino Uno R3__ e.g. from
 	[Arduino](https://store-usa.arduino.cc/products/a000066) or 
-	[Adafruit](https://www.adafruit.com/products/50)). 
-	[Sparkfun](https://www.sparkfun.com/products/11021)
+	[Adafruit](https://www.adafruit.com/products/50)) or
+	[Sparkfun](https://www.sparkfun.com/products/11021) or
+	[Jameco](https://www.jameco.com/z/A000066-Arduino-Arduino-Uno-R3-DIP-Edition-Revision-3-_2151486.html)
 	Must be the real thing, not be a clone or a compatible. 
 	Do not order from Amazon or Ebay.
 - Solderless breadboard, full size (also known as 830 tie point) e.g. from
 	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView)
 - Full size _USB cable__ (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
-- Pack of _jumper wires__ e.g. from [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
+- Pack of _jumper wires__ e.g. from [Jameco](https://www.jameco.com/z/MKSEEED3-65-Piece-Reinforced-Jumper-Wire-Set_2229191.html) or [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
 - _Output__ devices for your projects: LEDs, speakers, motors, etc.
 - _Sensors__ for your project
 - _Laptop__ (Windows, Linux, or Macintosh)
-
 
 Many vendors grant discounts for educational purposes so ask before you
 purchase. I encourage you to organize a group purchase to save on shipping
@@ -346,7 +345,7 @@ __The schedule is subject to change__
 - *Homework*
   - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 2 at noon. 
 		
-		- Personal self-evaluation
+		Personal self-evaluation
 			- What have you learned?
 			- What are your goals for the rest of the semester?
 			- What obstacles will you face in achieving these goals?
@@ -356,18 +355,19 @@ __The schedule is subject to change__
 				
    - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 2 at noon. 		
    
-   			- Course evaluation
+   		Course evaluation
 			- What further would you like to learn in this course?
 			- What would you like to change in the course material?
 			- What would you like to change in the way the material is delivered?
 			- What would you add to this class?
 			- What would you remove from this class?
 			
-- Homework due next week. 
+- *Homework* due next week. 
   - complete documentation of your midterm project posted in a folder on GitHub including
     - written description of your concept (this can be taken from your original project proposal)
     - drawing of your initial concept
-    - video of your working project
+    - picture of the first iteration
+    - video of your working project (upload to YouTube and post a link)
     - code (or a written description of what the code should do, if it's not yet working)
     - schematic showing the relevant connections from Arduino to sensors and output devices: hand-drawn or [Fritzing](http:fritzing.org)
   - Write a concept proposal for your final project
@@ -417,19 +417,11 @@ __The schedule is subject to change__
 [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
 
 ### Week 9: Thursday, March 15, 2018
-- Homework critique
-	- Disorganized and unclear. 
-		- Confusing names of files and folders
-		- No understandable folder structure
-		- Missing parts of homework
-		- Comments often left over from examples or other programs on which
-			you based yours but are no longer relevant. Get rid of them.
-	- Sensors: What do you want to know? Do some research and ask specific 
-		questions. 
 - Homework review
 - Critique proposal concepts
+- Sensors: What do you want to know? Do some research and ask specific questions. 
 - Start working: Research, mock-ups, test ideas and concepts
-- Homework
+- *Homework*
 	- Complete the Fritzing assignment from last week. Make a new folder called
 		"Fritzing" in your github repository and upload the .fzz file of your
 		circuit into that folder
@@ -455,38 +447,34 @@ __The schedule is subject to change__
 
 ### Week 10: Thursday, March 29, 2018
 - Quick project status report
-- Fritzing review
-- Othermill?
+- Fritzing and Othermill review?
 - Lecture
-	- Wireless section in our class
-		[resources](https://github.com/loopstick/resourcesForClasses)).
+	- Wireless section in our class[resources](https://github.com/loopstick/resourcesForClasses)).
 - Work: test, repair, iterate
-- Homework: Functional part of your project
-	- Build any working part of your project 
-		(preferably the part you are most concerned about)
-		and demonstrate it in class next week
+- *Homework*: 
+  - Build any working part of your project 
+	(preferably the part you are most concerned about) 
+	and demonstrate it in class next week
 
 ### Week 11: Thursday, April 5, 2018
 - Critique working mock-up 
-
-### Week 12: Thursday, April 12, 2018
-
-#### current homework assignment
--	Homework
+- *Homework*
 	- Read [Physical Computing’s Greatest Hits (and
 		misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
 		think about whether the your project is doing something in a meaningful or
 		unique way. Will someone want to play with your project for longer than 
 		5 seconds? Why or why not?
-	- Minimal Viable Project is due April 20
+	- Minimal Viable Project is due April 19
 		- Simplify your project if necessary
 		- If it is too simple you will have one week to add complexity
+
+### Week 12: Thursday, April 12, 2018
+- continue working on your project
 
 ### Week 13: Thursday, April 19, 2018
 - Demonstrate working minimal viable project (MVP)
 
 ### Week 14: Thursday, April 26, 2018
-- Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 - Review end of semester schedule 
 - Review Interface Show spreadsheet
 - Interface Show Plaque
