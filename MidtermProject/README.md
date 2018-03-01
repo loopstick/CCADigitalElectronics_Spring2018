@@ -18,8 +18,11 @@ Adam Kemp provides the [code](UltraDAR/files/UltraDAR-SingleSweep.ino) (very hel
 [//]: # (comment test: UltraDAR/images/UltraDAR-Top.jpg)
 
 I printed the ultradar pieces and assembled the mechanism. 
-I tested the servo. 
-I tested the ultrasonic sensor.
+I tested the servo. [Servo test code](code/ServoTest.ino)
+I tested the ultrasonic sensor. [Ultrasonic test code](code/UltraTest.ino)
+I used a breadboard shield to set up 2 transistors to drive two motors and tested (first with LEDs)
+I decided against hot gluing the motors to the wooden platform and spent a little extra time to 
+drill holes and cut plates so I could use bolts to hold the motors in place (allowing for repositioning and swapping motors later)
 
 ![Harv1_top](/images/Harv1_top.JPG)
 ![Harv1_side](/images/Harv1_side.JPG)
