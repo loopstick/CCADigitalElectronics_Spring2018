@@ -1,7 +1,7 @@
 
 # Midterm Project Documentation Example 
 
-## Harvey - the Shy Robot
+## Harv - the Shy Robot
 
 ### Concept: Create a shy robot. 
 
@@ -15,7 +15,7 @@ The key feature of this robot is a simple "ultradar" that is used to sense obsta
 Adam Kemp provides the [code](UltraDAR/files/UltraDAR-SingleSweep.ino) (very helpful!) and files to 3D print the parts here: www.thingiverse.com/thing:2481918
 
 [//]: # (comment test: UltraDAR/images/UltraDAR-Top.jpg)
-
+Harv v1
 - I printed the ultradar pieces and assembled the mechanism. 
 - I tested the servo. [Servo test code](code/ServoTest.ino)
 - I tested the ultrasonic sensor. [Ultrasonic test code](code/UltraTest.ino)
@@ -25,12 +25,12 @@ Adam Kemp provides the [code](UltraDAR/files/UltraDAR-SingleSweep.ino) (very hel
 ![Harv1_top](images/Harv1_top.jpg)
 ![Harv1_side](images/Harv1_side.JPG)
 
-I had to move the motors because they were in the way of the ultrasonic sensor. 
-I decided against zipties (wasteful) and hot glue (too permanent) to attach the motors to the wooden platform. 
-I spent a little extra time to drill holes and cut plates so I could use bolts to hold the motors in place (allowing for repositioning and swapping motors later)
+Harv v2
+ - I had to move the motors because they were in the way of the ultrasonic sensor. 
+ - I decided against zipties (wasteful) and hot glue (too permanent) to attach the motors to the wooden platform. 
+ - I spent a little extra time to drill holes and cut plates so I could use bolts to hold the motors in place (allowing for repositioning and swapping motors later)
 
 ![Harv2_under](images/Harv2_under.jpg)
-
 
 5v from USB wasn't really enough power for the motors. AND I needed the bot to be untethered.
 - first I tried a 9V battery: nice and compact and plenty of voltage for the motors
