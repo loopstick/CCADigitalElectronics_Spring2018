@@ -1,11 +1,19 @@
 
-### Week 7: Thursday, March 1, 2018
-#### Midterm Projects DUE!!
-
 ## Midterm Project Documentation Example 
 
-  - complete documentation of your midterm project posted in a folder on GitHub including
-    - written description of your concept (this can be taken from your original project proposal)
+   - written description of your concept (this can be taken from your original project proposal)
+   
+### Harvey - the Shy Robot
+
+#### Concept: Create a shy robot. 
+
+I'm not sure yet what that means so for the first few iterations the focus of the project will be getting basic functionality working.
+I decided to base the project on a design published in Make Magazine 61
+![UltraDar Robot Pic](Ultradar/images/9fb649f13b055a1754cfbe000f67afff_preview_featured.jpg)
+
+
+thingiverse.com/thing:2481918 
+	
     - drawing of your initial concept
     - picture of the first iteration
     - video of your working project (upload to YouTube and post a link)
