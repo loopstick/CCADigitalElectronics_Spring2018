@@ -1,8 +1,6 @@
 
 # Midterm Project Documentation Example 
 
-   - written description of your concept (this can be taken from your original project proposal)
-   
 ## Harvey - the Shy Robot
 
 ### Concept: Create a shy robot. 
