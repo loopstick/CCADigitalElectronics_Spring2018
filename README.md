@@ -353,9 +353,9 @@ __The schedule is subject to change__
 			- How would you grade your device? 
 			- What would you have done differently if you had to do the assignment over again?
 				
-   - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 2 at noon. 		
-   
-   		Course evaluation
+  - Write a course evaluation, email to me (stewari@cca.edu) by Friday, March 2 at noon. 	
+  
+  		Course evaluation
 			- What further would you like to learn in this course?
 			- What would you like to change in the course material?
 			- What would you like to change in the way the material is delivered?
