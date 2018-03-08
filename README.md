@@ -379,48 +379,53 @@ __The schedule is subject to change__
 ### Week 8: Thursday, March 8, 2018
 - Evaluation feedback
   - Documentation and final project proposal review
-  - Sensors, more practice?
+  - More Basics!!!
+  	- Arduino Reference: https://www.arduino.cc/reference/en/
+  	- Sensors, more practice?
 	- Soldering circuits
 	- Examples
 - Lecture
-	- Digital Read, if necessary
-	- Debugging techniques, if necessary
+  - More Basics!!!
+  	- Arduino Reference: https://www.arduino.cc/reference/en/
+  	- Sensors
+	  - more practice?
+	  - Electronic Theory
+	    - Ohm's Law
+	    - LDR as voltage divider measured with multimeter
+	- Soldering circuits
+	- Examples
+	  - Resources: https://github.com/loopstick/ResourcesForClasses#inspiration-artists-movies-projects-etc
+	  - Instructables (Arduino category): http://www.instructables.com/technology/arduino/
+	  - Make: https://makezine.com/projects/
+	- Debugging techniques
 	- Counting and modulo
 	- Arrays
 	- Edge detection
 	- Debouncing
-- Demonstration: Fritzing and Othermill
+- Demonstration: LDR as voltage divider measured with multimeter
+
 - *Homework*
   - Please read and try to understand as much as possible. Be prepared to answer questions in class. It is OK if you don't understand everything, but it is not OK if you did not read:
-    - Edge detection:
-      - https://www.arduino.cc/en/Tutorial/StateChangeDetection
-      - http://www.ladyada.net/learn/arduino/lesson5.html
-      - https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/
-    - Debouncing: 
-      - https://www.arduino.cc/en/tutorial/debounce
-    - Arrays:
-      - https://www.tutorialspoint.com/arduino/arduino_arrays.htm>
-      - https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/
-      - https://startingelectronics.org/software/arduino/learn-to-program-course/17-arrays/
-      - http://www.thebox.myzen.co.uk/Tutorial/Arrays.html
-      - https://www.arduino.cc/en/Tutorial/Arrays
     - Test equipment:
       - https://learn.adafruit.com/multimeters?view=all
       - https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter
-    - Soldering:
-      - https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all
-		
-		
-  3. Read the __Classes and Objects__ resources on our [resources](https://github.com/loopstick/resourcesForClasses) page
-  4. Read the __Fritzing resources__ on our [resources](https://github.com/loopstick/resourcesForClasses) page
-  5. Create a __schematic__ in Fritzing and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on
-[this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
+    - look up 3 funtions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
+    - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) 
+      and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play 	with your project for longer than 5 seconds? Why or why not?      
+  4. Read the [Fritzing resources](https://github.com/loopstick/resourcesForClasses#fritzing-resources) 
+  on our [Resources](https://github.com/loopstick/resourcesForClasses) page
+  5. __Due Week 10:__ Create a __schematic__ in __Fritzing__ and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
+  Wayback archive - https://web.archive.org/web/20170816135325/http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge
 
 ### Week 9: Thursday, March 15, 2018
 - Homework review
-- Critique proposal concepts
-- Sensors: What do you want to know? Do some research and ask specific questions. 
-- Start working: Research, mock-ups, test ideas and concepts
+  - Critique proposal concepts
+- Sensors: 
+  - What do you want to know? Do some research and ask specific questions. 
+- Start/keep working: 
+  - Research, mock-ups, test ideas and concepts
+- Demonstration: 	
+  - Fritzing and Othermill
 - *Homework*
 	- Complete the Fritzing assignment from last week. Make a new folder called
 		"Fritzing" in your github repository and upload the .fzz file of your
@@ -444,12 +449,32 @@ __The schedule is subject to change__
 
 ### Spring Break: Thursday, March 22, 2018
 - Research, build mock-ups, test ideas and concepts
+  - If you get bored on break:
+    - Read the __Classes and Objects__ resources on our [resources](https://github.com/loopstick/resourcesForClasses) page
+  & Arduino the Object Oriented Way: http://paulmurraycbr.github.io/ArduinoTheOOWay.html
+    -Also
+     - Edge detection:
+      - https://www.arduino.cc/en/Tutorial/StateChangeDetection
+      - http://www.ladyada.net/learn/arduino/lesson5.html
+      - https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/
+    - Debouncing: 
+      - https://www.arduino.cc/en/tutorial/debounce
+    - Arrays:
+      - https://www.tutorialspoint.com/arduino/arduino_arrays.htm>
+      - https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/
+      - https://startingelectronics.org/software/arduino/learn-to-program-course/17-arrays/
+      - http://www.thebox.myzen.co.uk/Tutorial/Arrays.html
+      - https://www.arduino.cc/en/Tutorial/Arrays
+
 
 ### Week 10: Thursday, March 29, 2018
 - Quick project status report
 - Fritzing and Othermill review?
+- Soldering:
+      - https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all
 - Lecture
-	- Wireless section in our class[resources](https://github.com/loopstick/resourcesForClasses)).
+	- [Wireless](https://github.com/loopstick/resourcesForClasses#wireless-technologies) 
+	section in our class[resources](https://github.com/loopstick/resourcesForClasses)).
 - Work: test, repair, iterate
 - *Homework*: 
   - Build any working part of your project 
