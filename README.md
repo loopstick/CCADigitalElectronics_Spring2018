@@ -379,16 +379,10 @@ __The schedule is subject to change__
 ### Week 8: Thursday, March 8, 2018
 - Evaluation feedback
   - Documentation and final project proposal review
-  - More Basics!!!
-  	- Arduino Reference: https://www.arduino.cc/reference/en/
-  	- Sensors, more practice?
-	- Soldering circuits
-	- Examples
 - Lecture
   - More Basics!!!
   	- Arduino Reference: https://www.arduino.cc/reference/en/
   	- Sensors
-	  - more practice?
 	  - Electronic Theory
 	    - Ohm's Law
 	    - LDR as voltage divider measured with multimeter
@@ -409,17 +403,28 @@ __The schedule is subject to change__
     - Test equipment:
       - https://learn.adafruit.com/multimeters?view=all
       - https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter
-    - look up 3 funtions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
+    - look up 3 functions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
     - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) 
       and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play 	with your project for longer than 5 seconds? Why or why not?      
   4. Read the [Fritzing resources](https://github.com/loopstick/resourcesForClasses#fritzing-resources) 
   on our [Resources](https://github.com/loopstick/resourcesForClasses) page
-  5. __Due Week 10:__ Create a __schematic__ in __Fritzing__ and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
+  5. __Due Week 10 (March 29):__ Create a __schematic__ in __Fritzing__ and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
   Wayback archive - https://web.archive.org/web/20170816135325/http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge
 
 ### Week 9: Thursday, March 15, 2018
 - Homework review
   - Critique proposal concepts
+- Lecture
+  - use the Arduino Language [Reference](https://www.arduino.cc/reference/en/)!
+    - [setup()](https://www.arduino.cc/reference/en/language/structure/sketch/setup/)
+    - [loop()](https://www.arduino.cc/reference/en/language/structure/sketch/loop/)
+    - [functions](https://www.arduino.cc/en/Reference/FunctionDeclaration)
+  - Control Structures
+    - [if](https://www.arduino.cc/reference/en/language/structure/control-structure/if/)
+    - [break](https://www.arduino.cc/reference/en/language/structure/control-structure/break/)
+    - [switch case](https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/)	
+  - Interrupts
+    - [attach interrupt](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
 - Sensors: 
   - What do you want to know? Do some research and ask specific questions. 
 - Start/keep working: 
@@ -427,16 +432,15 @@ __The schedule is subject to change__
 - Demonstration: 	
   - Fritzing and Othermill
 - *Homework*
-	- Complete the Fritzing assignment from last week. Make a new folder called
+	- Work on the Fritzing assignment from last week. Make a new folder called
 		"Fritzing" in your github repository and upload the .fzz file of your
 		circuit into that folder
 	- Final project proposals and prototype
 		- Build a prototype to verify the most difficult part of your project
 		- Research 
 		- Order or check out equipment
-		- Create a very clear project description identifying the Minimal Viable
-			Project and optional add-ons
-			- Include flow charts, block diagrams, and pseudo-code
+		- Create a very clear project description identifying the Minimal Viable Project and optional add-ons
+		- Include flow charts, block diagrams, and pseudo-code
 	- Improve the quality of your work on Github
 		- Well organized Github folders, good folder and file names
 		- Good descriptions for each assignment
