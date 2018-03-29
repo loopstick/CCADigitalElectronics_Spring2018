@@ -473,6 +473,8 @@ __The schedule is subject to change__
 
 ### Week 10: Thursday, March 29, 2018
 - Quick project status reports
+- Hybrid Lab workshop tomorrow 
+  - NEOPIXEL REVIEW with Sabrina Nassar, FRIDAY Mar 30, 3-5PM
 - Lecture 
   - review 
     - Control Structures
