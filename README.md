@@ -222,9 +222,9 @@ __The schedule is subject to change__
     - Example
       - AnalogInput modified to work without using delay():
       [AnalogInputWithoutDelay](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
-- *Homework:*
-  - Read __all four__ of the Multitasking Resources in [resources](https://github.com/loopstick/ResourcesForClasses).
-    - Find (online) an project of any sort using Arduino that you find interesting. 
+  - *Homework:*
+    - Read __all four__ of the Multitasking Resources in [resources](https://github.com/loopstick/ResourcesForClasses).
+    - Find (online) an Arduino project that you find interesting. 
       - Write a brief description and put a link in the README.md file in your Github repository. 
       - remember I've posted gitHub resources at the bottom/end of [class resources](https://github.com/loopstick/ResourcesForClasses).	
     - Read about **3** of the sensors on the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) listed in
