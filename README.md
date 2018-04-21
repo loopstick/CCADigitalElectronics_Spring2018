@@ -541,6 +541,14 @@ __The schedule is subject to change__
 ### Week 15: Thursday, May 3, 2018
 - No class;  End of Year Reviews for Year Zero and Year One
 
+## Thursday, May 3, 2018, 9am - Project Writeup due
+
+## Saturday, May 5: Interface Show!!!!
+7PM to 9:30PM
+Oliver Art Center
+California College of the Arts
+5212 Broadway, Oakland 
+
 ## Student Repositories
 CCA_DigitalElec_Spring2018 GitHub Repositories
 
