@@ -543,14 +543,16 @@ __The schedule is subject to change__
 
 ## Thursday, May 3, 2018, 9am - Project Writeup due
 
+
+
 ## Saturday, May 5: Interface Show!!!!
-7PM to 9:30PM
+	7PM to 9:30PM
+	Oliver Art Center
+	California College of the Arts
+	5212 Broadway, Oakland 
 
-Oliver Art Center
 
-California College of the Arts
 
-5212 Broadway, Oakland 
 
 ## Student Repositories
 CCA_DigitalElec_Spring2018 GitHub Repositories
